@@ -1,0 +1,2 @@
+CNN-relation-extraction-master/embedding/hlbl-embeddings-scaled.EMBEDDING_SIZE=50.txt filter=lfs diff=lfs merge=lfs -text
+CNN-relation-extraction-master/output/CNN/model.pkl filter=lfs diff=lfs merge=lfs -text
